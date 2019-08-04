@@ -8,6 +8,10 @@ h1 {
   margin: 5px;
   }
   
+h1:active {
+  background: blue;
+}
+  
 h2 {
   font-family: baskerville;
   font-size: 32px;
