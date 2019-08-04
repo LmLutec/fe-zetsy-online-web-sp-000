@@ -8,8 +8,8 @@ h1 {
   margin: 5px;
   }
   
-h1:active {
-  background: blue;
+h1:hover {
+  color: blue;
 }
   
 h2 {
