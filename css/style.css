@@ -45,5 +45,5 @@ body {
 }
 
  a img:hover {
-  color: red;
+   border: 5px solid #669999;
 }
